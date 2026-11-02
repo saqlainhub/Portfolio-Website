@@ -50,15 +50,15 @@ This project represents an earlier stage of my portfolio development journey and
 
 | Home Page | About Section |
 |:---:|:---:|
-| <img src="home.png" width="400" alt="Home Page" /> | <img src="about.png" width="400" alt="About Section" /> |
+| <img src="home section.png" width="400" alt="Home Page" /> | <img src="about section.png" width="400" alt="About Section" /> |
 
 | Services Section | Skills Section |
 |:---:|:---:|
-| <img src="services.png" width="400" alt="Services Section" /> | <img src="skills.png" width="400" alt="Skills Section" /> |
+| <img src="services section.png" width="400" alt="Services Section" /> | <img src="skills section.png" width="400" alt="Skills Section" /> |
 
 | Projects Section | Contact Section |
 |:---:|:---:|
-| <img src="projects.png" width="400" alt="Projects Section" /> | <img src="contact.png" width="400" alt="Contact Section" /> |
+| <img src="projects section.png" width="400" alt="Projects Section" /> | <img src="contact section.png" width="400" alt="Contact Section" /> |
 
 </div>
 
