@@ -101,36 +101,6 @@ The project was deployed using Netlify.
 
 **Live Website:** https://saqlainhub.netlify.app
 
-## ⚙️ Run Locally
-
-To run the project on your local machine:
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd YOUR_PROJECT_FOLDER
-```
-
-### 3. Install Dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the Development Server
-
-```bash
-npm run dev
-```
-
-Open the local URL provided by your development server.
-
 ## 🎯 Project Objectives
 
 - Develop a professional personal portfolio website.
