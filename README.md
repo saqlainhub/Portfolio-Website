@@ -143,6 +143,8 @@ Through this project, I gained practical experience in:
 
 ### Thanks for Exploring SaqlainHub!
 
+If you like this project, consider giving it a ⭐ on GitHub.
+
 **A project from my journey in software development.**
 
 </div>
